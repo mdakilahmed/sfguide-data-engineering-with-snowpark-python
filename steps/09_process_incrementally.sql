@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------
 Hands-On Lab: Data Engineering with Snowpark
 Script:       09_process_incrementally.sql
-Author:       Jeremiah Hansen
+Author:        
 Last Updated: 1/9/2023
 -----------------------------------------------------------------------------*/
 
